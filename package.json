@@ -1,0 +1,26 @@
+{
+  "name": "datastructures-algorithms",
+  "version": "1.0.0",
+  "description": "Copy and practice from https://github.com/trekhleb/javascript-algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DercilioFontes/data_structures-algorithms.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "Dercilio Fontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DercilioFontes/data_structures-algorithms/issues"
+  },
+  "homepage": "https://github.com/DercilioFontes/data_structures-algorithms#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
